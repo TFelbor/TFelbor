@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TFelbor
 - 👀 I’m interested in coding, AI and problem-solving
-- 🌱 I’m currently learning: Python and basics of AI like DRL (Deep Reinforcemenet Leanring), DDPG (Deep Deterministic Policy Gradient), Actor Critic, Deep Q-Learning and Twin-Delayed DDPG (TD3)
+- 🌱 I’m currently learning: Python & basics of AI like DRL (Deep Reinforcemenet Leanring), DDPG (Deep Deterministic Policy Gradient), Actor Critic, Deep Q-Learning & Twin-Delayed DDPG (TD3)
 - 📫 How to reach me: https://www.linkedin.com/in/tytusfelbor/ or tytus.felbor@icloud.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm Polish🇵🇱
