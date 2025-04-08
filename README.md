@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tytus Felbor
+- 👋 Hi there! My name is Tytus
 - 👀 I’m deeply passionate about AI and software engineering. 
 - 🌱 Currently I'm learning about the local deployment of large language models and exploring the fascinating wave of new AI tools being unleashed every single day. 
 - 📫 You can reach me at: tytus.felbor@icloud.com
