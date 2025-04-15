@@ -1,7 +1,7 @@
-👋 Hi there! My name is Tytus
-🌱 I’m deeply passionate about AI, software engineering and innovating new, creative, and elegant solutions
-👀 Currently I'm learning about the local deployment of large language models and exploring the fascinating wave of new AI tools being unleashed every single day
-📫 You can reach me at: tytus.felbor@icloud.com
+- 👋 Hi there! My name is Tytus
+- 🌱 I’m deeply passionate about AI, software engineering and innovating new, creative, and elegant solutions
+- 👀 Currently I'm learning about the local deployment of large language models and exploring the fascinating wave of new AI tools being unleashed every single day
+- 📫 You can reach me at: tytus.felbor@icloud.com
 
 <!---
 TFelbor/TFelbor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
