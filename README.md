@@ -5,5 +5,6 @@
 * ⚙️ During free time I enjoy realizing new projects of mine, learning and reading about new technologies/tools, or just spending quality time with closest friends&family.
 * 🫴 Currently I'm learning about local deployement of LLMs, leveraging Agents for developing advanced workflows, also just solidifying my knowledge and deepening my understanding of A.I. with it's latest develpments.
 
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFelbor)](https://github.com/TFelbor/github-readme-stats)
 
