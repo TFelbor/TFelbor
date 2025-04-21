@@ -1,8 +1,9 @@
-- 👋 Hi there! My name is Tytus
-- 🌱 I’m deeply passionate about AI, software engineering and innovating new, creative, but elegant solutions
-- 👀 Currently I'm learning about the local deployment of large language models and exploring the fascinating wave of new AI tools being unleashed every single day
+# Hi there! I'm Tytus & Welcome to my GitHub Profile
 
-<!---
-TFelbor/TFelbor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Software Engineer & A.I. Enthusiast, sharing my journey and learnings in Tech
+📚 Studied Computer Science at Hobart & William Smith Colleges in Geneva, New York
+⚙️ During free time I enjoy realizing new projects of mine, learning and reading about new technologies/tools, or just spending quality time with closest friends&family.
+🫴 Currently I'm learning about local deployement of LLMs, leveraging Agents for developing advanced workflows, also just solidifying my knowledge and deepening my understanding of A.I. with it's latest develpments.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFelbor)](https://github.com/TFelbor/github-readme-stats)
+
