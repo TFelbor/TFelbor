@@ -16,9 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TFelbor&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFelbor&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-## ✍️ Random Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<br>
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TFelbor&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 <br>
