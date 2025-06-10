@@ -2,7 +2,7 @@
 👨‍💻 Software Engineer & A.I. Enthusiast, sharing my journey and learnings in Tech<br>
 📚 Studied Computer Science at Hobart & William Smith Colleges in Geneva, New York<br>
 ⚙️ During free time I enjoy realizing new projects of mine, learning and reading about new technologies/tools, or just spending quality time with closest friends&family<br>
-🫴 Currently I’m learning about local deployment of LLMs, leveraging Agents for developing advanced workflows, also just solidifying my knowledge and deepening my understanding of A.I. with it’s latest developments
+🫴 Currently I’m learning about local deployment of LLMs, leveraging agents for developing advanced workflows, also just solidifying my knowledge and deepening my understanding of A.I. with it’s latest developments
 <br>
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=TFelbor&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TFelbor&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
