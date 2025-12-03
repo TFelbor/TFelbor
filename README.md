@@ -1,7 +1,7 @@
 # 💫 About Me
 👨‍💻 Software Engineer & A.I. Enthusiast, sharing my journey and learnings in Tech<br>
 📚 Degrees: <br>
-Bachelor of Arts in Computer Science from Hobart & William Smith Colleges in Geneva, New York 2025<br>
+B.A. in Computer Science from Hobart & William Smith Colleges in Geneva, New York 2025 <br>
 MSc. in Intelligent Software for Autonomous Systems from EIT Digital Master School in Nice, France 2025-26 and Stockholm, Sweden 2026-27 <br> 
 ⚙️ During free time I enjoy realizing new projects of mine, learning and reading about new technologies/tools, or just spending quality time with closest friends&family<br>
 🫴 Currently I’m learning about local deployment of LLMs, leveraging agents for developing advanced workflows, also just solidifying my knowledge and deepening my understanding of A.I. with it’s latest developments
