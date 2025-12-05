@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👾 About Me
 👨‍💻 Software Engineer & A.I. Enthusiast, sharing my journey and learnings in Tech<br>
 📚 Degrees: <br>
 B.A. in Computer Science from Hobart & William Smith Colleges in Geneva, New York 2025 <br>
