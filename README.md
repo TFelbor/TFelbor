@@ -14,5 +14,8 @@ MSc. in Intelligent Software for Autonomous Systems from EIT Digital - Nice, Fra
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TFelbor&icon=5&color=8)](https://visitcount.itsvg.in)
+
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
 
