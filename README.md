@@ -3,7 +3,7 @@
 📚 Degrees: <br>
 B.A. in Computer Science from Hobart & William Smith Colleges in Geneva, New York 2025 <br>
 MSc. in Intelligent Software for Autonomous Systems from EIT Digital - Nice, France 2025-26 & Stockholm, Sweden 2026-27 <br> 
-⚙️ During free time I enjoy realizing new projects, learning and reading about new technologies/tools, or just spending quality time with closest friends&family<br>
+⚙️ During free time I enjoy realizing new projects, learning and reading about new technologies/tools, or just spending quality time with closest friends & family<br>
 🫴 Currently I’m studying Robotics Engineering at Polytech Nice-Sophia, and I'm fascinated by my courses on Reinforcement Learning, Embedded AI & Autonomous Vehicles.
 <br>
 
