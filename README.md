@@ -1,5 +1,5 @@
 # 👾 About Me
-👨‍💻 Software Engineer & A.I. Enthusiast, sharing my journey and learnings in Tech<br>
+👨‍💻 Software Engineer & A.I. Enthusiast, sharing my journey and lessons in Tech<br>
 📚 Degrees: <br>
 B.A. in Computer Science from Hobart & William Smith Colleges in Geneva, New York 2025 <br>
 MSc. in Intelligent Software for Autonomous Systems from EIT Digital - Nice, France 2025-26 & Stockholm, Sweden 2026-27 <br> 
