@@ -3,7 +3,7 @@
 📚 Degrees: <br>
 B.A. in Computer Science from Hobart & William Smith Colleges in Geneva, New York 2025 <br>
 MSc. in Intelligent Software for Autonomous Systems from EIT Digital - Nice, France 2025-26 & Stockholm, Sweden 2026-27 <br> 
-⚙️ During free time I work on my latest project: Daedal Studio; available at: https://daedal.studio <br>
+⚙️ During free time I mostly put in work on my latest project: Daedal Studio; available at: https://daedal.studio <br>
 🫴 Currently I’m studying Robotics Engineering at KTH in Stockholm<br>
 
 # 💻 Tech Stack
